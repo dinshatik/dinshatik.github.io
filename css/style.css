@@ -28,7 +28,7 @@ div.btnbg {
   position: absolute;
   z-index: 2;
   margin: 40px auto;
-  margin-left: 300px;
+  margin-left: 250px;
   width:50px;
   height:50px;
 }
@@ -38,7 +38,7 @@ div.btnbg {
   position: absolute;
   z-index:3;
   width:350px;
-  height:500px;
+  height:550px;
   background:rgba(167, 166, 166, 0.808);
   top:20%;
   left:7%;
@@ -69,7 +69,7 @@ div.btnbg {
   position: absolute;
   z-index:3;
   width:350px;
-  height:500px;
+  height:550px;
   background:rgba(167, 166, 166, 0.808);
   top:20%;
   left:38.5%;
@@ -102,7 +102,7 @@ div.btnbg {
   position: absolute;
   z-index:3;
   width:350px;
-  height:500px;
+  height:550px;
   background:rgba(167, 166, 166, 0.808);
   top:20%;
   left:70%;
@@ -117,7 +117,7 @@ div.btnbg {
   text-align: center;
   padding: 5px;
 }
-.button-panel3
+.button-panel
 {
   background:rgb(167, 166, 166);
   padding: 35px;
@@ -125,3 +125,4 @@ div.btnbg {
   height:50px ;
   margin: auto;
 }
+
