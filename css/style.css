@@ -22,6 +22,7 @@ div.btnbg {
   margin: 20px auto;
   width:50px;
   height:50px;
+  margin-bottom: 10px;
 }
 #vk
 {
@@ -29,6 +30,7 @@ div.btnbg {
   z-index: 2;
   margin: 20px auto;
   margin-left: 250px;
+  margin-bottom: 10px;
   width:50px;
   height:50px;
 }
