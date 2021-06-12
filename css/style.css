@@ -19,7 +19,7 @@ div.btnbg {
 {
   position: absolute;
   z-index: 2;
-  margin: 20px auto;
+  margin: 50px auto;
   width:50px;
   height:50px;
   margin-bottom: 10px;
@@ -28,7 +28,7 @@ div.btnbg {
 {
   position: absolute;
   z-index: 2;
-  margin: 20px auto;
+  margin: 50px auto;
   margin-left: 250px;
   margin-bottom: 10px;
   width:50px;
