@@ -3,7 +3,7 @@ body {
     padding:0;
     margin:0;
     overflow:hidden;
-  height: 900px;
+  height: 600px;
 }
 canvas {
     padding:0;
@@ -40,7 +40,7 @@ div.btnbg {
   position: absolute;
   z-index:3;
   width:350px;
-  height:950px;
+  height:650px;
   background:rgba(167, 166, 166, 0.808);
   top:15%;
   left:7%;
@@ -71,7 +71,7 @@ div.btnbg {
   position: absolute;
   z-index:3;
   width:350px;
-  height:950px;
+  height:650px;
   background:rgba(167, 166, 166, 0.808);
   top:15%;
   left:38.5%;
@@ -104,7 +104,7 @@ div.btnbg {
   position: absolute;
   z-index:3;
   width:350px;
-  height:950px;
+  height:650px;
   background:rgba(167, 166, 166, 0.808);
   top:15%;
   left:70%;
